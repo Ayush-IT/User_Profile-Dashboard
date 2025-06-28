@@ -63,7 +63,7 @@ src/
 ├── App.jsx
 └── main.jsx
 
-
+```
 ---
 
 ## 🖼 Screenshots
