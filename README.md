@@ -71,7 +71,8 @@ src/
 | Desktop Layout              | Mobile Layout               |
 |-----------------------------|-----------------------------|
 | !![image](https://github.com/user-attachments/assets/a8a61839-4fc8-47ab-917a-9552808a6062)
- | ![mobile screenshot](![Uploading image.png…]()
+ | ![mobile screenshot](![![image](https://github.com/user-attachments/assets/ddbbc025-2fc6-4bb3-8be6-167b646b31dc)
+]()
 ) |
 
 
