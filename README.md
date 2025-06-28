@@ -50,7 +50,7 @@ It features a modular React + Vite architecture, stylish UI with Tailwind CSS, a
 ## 📁 Folder Structure
 
 src/
-├── components/ \n
+├── components/ 
 │ ├── Profile.jsx
 │ ├── EditProfileForm.jsx
 │ ├── Tasks.jsx
@@ -70,10 +70,9 @@ src/
 
 | Desktop Layout              | Mobile Layout               |
 |-----------------------------|-----------------------------|
-| !![image](https://github.com/user-attachments/assets/a8a61839-4fc8-47ab-917a-9552808a6062)
- | ![mobile screenshot](![![image](https://github.com/user-attachments/assets/ddbbc025-2fc6-4bb3-8be6-167b646b31dc)
-]()
-) |
+| ![image](https://github.com/user-attachments/assets/a8a61839-4fc8-47ab-917a-9552808a6062)
+ | ![![image](https://github.com/user-attachments/assets/ddbbc025-2fc6-4bb3-8be6-167b646b31dc)
+|
 
 
 ---
@@ -82,7 +81,7 @@ src/
 
 ```bash
 # 1️⃣ Clone the repository or download the code
-cd floww-dashboard
+cd User_Profile-Dashboard
 
 # 2️⃣ Install dependencies
 npm install
