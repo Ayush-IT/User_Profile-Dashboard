@@ -50,7 +50,7 @@ It features a modular React + Vite architecture, stylish UI with Tailwind CSS, a
 ## 📁 Folder Structure
 
 src/
-├── components/
+├── components/ \n
 │ ├── Profile.jsx
 │ ├── EditProfileForm.jsx
 │ ├── Tasks.jsx
