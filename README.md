@@ -70,9 +70,7 @@ src/
 
 | Desktop Layout              | Mobile Layout               |
 |-----------------------------|-----------------------------|
-| ![![image](https://github.com/user-attachments/assets/1429d235-ba5f-4065-aa24-b2547b3bc3d3)
-] | ![![image](https://github.com/user-attachments/assets/19eb582f-c04d-4b23-9ddf-e3a551b284c8)
-] |
+| ![![image](https://github.com/user-attachments/assets/1429d235-ba5f-4065-aa24-b2547b3bc3d3)] | ![![image](https://github.com/user-attachments/assets/19eb582f-c04d-4b23-9ddf-e3a551b284c8)] |
 
 
 ---
@@ -90,7 +88,7 @@ npm install
 npm run dev
 
 # ➡ Open your browser at http://localhost:5173
-```
+
 🧠 Key Components
 Component	Role
 Profile.jsx	Displays profile info with fallback avatar, edit button
