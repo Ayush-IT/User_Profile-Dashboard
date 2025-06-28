@@ -23,9 +23,9 @@ It features a modular React + Vite architecture, stylish UI with Tailwind CSS, a
 |----------------------|------------------------------------------|
 | **React.js**          | Component-based UI                      |
 | **Vite**              | Super-fast build tool / dev server      |
-| **Tailwind CSS**      | Utility-first responsive styling        |
-| **JavaScript (ES6+)** | App logic & state management            |
-| **JSON**              | Static mock data for user & tasks       |
+| **Tailwind CSS**      | Utility-first responsive styling       |
+| **JavaScript (ES6+)** | App logic & state management           |
+| **JSON**              | Static mock data for user & tasks      |
 
 ---
 
@@ -33,41 +33,53 @@ It features a modular React + Vite architecture, stylish UI with Tailwind CSS, a
 
 ✅ Modern dashboard layout with:
 
-- **Profile card**: shows user avatar, name, email, editable with modal form  
-- **Task list**: toggle completion with interactive checkbox styling  
-- **Statistics**: circular progress indicator and completion percentage  
+- **Profile card**: shows user avatar, name, email, editable with modal form.  
+- **Task list**: toggle completion with interactive checkbox styling.  
+- **Statistics**: circular progress indicator and completion percentage.
 
-✅ Fully **responsive** design across mobile, tablet, desktop  
-✅ **Loading state animation** on startup  
-✅ Uses **Tailwind transitions** for hover, scale, shadow animations  
-✅ Clean code with separate components, easily maintainable  
+✅ Fully **responsive** design across mobile, tablet, desktop.
+
+✅ **Loading state animation** on startup.
+
+✅ Uses **Tailwind transitions** for hover, scale, shadow animations.
+
+✅ Clean code with separate components, easily maintainable.
 
 ---
 
 ## 📁 Folder Structure
-
 ```text
 src/
 ├── components/ 
-│   ├── Profile.jsx
-│   ├── EditProfileForm.jsx
-│   ├── Tasks.jsx
-│   ├── Statistics.jsx
-│   └── icons.jsx
+│ ├── Profile.jsx
+│ ├── EditProfileForm.jsx
+│ ├── Tasks.jsx
+│ ├── Statistics.jsx
+│ └── icons.jsx
 ├── data/
-│   └── mockData.json
+│ └── mockData.json
 ├── pages/
-│   └── Dashboard.jsx
+│ └── Dashboard.jsx
 ├── App.jsx
 └── main.jsx
-🖼 Screenshots
-Desktop Layout	Mobile Layout
-	
 
-🚀 How to Run Locally
-bash
-Copy
-Edit
+
+---
+
+## 🖼 Screenshots
+
+| Desktop Layout              | Mobile Layout               |
+|-----------------------------|-----------------------------|
+| ![![image](https://github.com/user-attachments/assets/1429d235-ba5f-4065-aa24-b2547b3bc3d3)
+](https://placehold.co/600x400/eee/333?text=Desktop+Dashboard) | ![![image](https://github.com/user-attachments/assets/19eb582f-c04d-4b23-9ddf-e3a551b284c8)
+](https://placehold.co/200x400/eee/333?text=Mobile+Dashboard) |
+
+
+---
+
+## 🚀 How to Run Locally
+
+```bash
 # 1️⃣ Clone the repository or download the code
 cd User_Profile-Dashboard
 
@@ -93,10 +105,13 @@ This project is purely for demonstration and internship assignment purposes.
 
 ✅ Built with ❤️ by Ayush Kumar
 
-🔥 Done!
+---
+
+# 🔥 Done!
+
 If you’d like, I can also:
-✅ add actual screenshots from your running app,
-✅ prepare a zip file with everything bundled,
-✅ or set up a quick deployment to Netlify/Vercel so you can share a live link.
+✅ add **actual screenshots** from your running app,  
+✅ prepare a **zip file** with everything bundled,  
+✅ or set up a quick **deployment to Netlify/Vercel** so you can share a live link.
 
 Just say the word! 🚀
