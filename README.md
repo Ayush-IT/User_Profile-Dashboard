@@ -70,9 +70,9 @@ src/
 
 | Desktop Layout              | Mobile Layout               |
 |-----------------------------|-----------------------------|
-| ![image](https://github.com/user-attachments/assets/a8a61839-4fc8-47ab-917a-9552808a6062)
- | ![![image](https://github.com/user-attachments/assets/ddbbc025-2fc6-4bb3-8be6-167b646b31dc)
-|
+| ![![image](https://github.com/user-attachments/assets/1429d235-ba5f-4065-aa24-b2547b3bc3d3)
+](https://placehold.co/600x400/eee/333?text=Desktop+Dashboard) | ![![image](https://github.com/user-attachments/assets/19eb582f-c04d-4b23-9ddf-e3a551b284c8)
+](https://placehold.co/200x400/eee/333?text=Mobile+Dashboard) |
 
 
 ---
